@@ -1,0 +1,16 @@
+.active{
+	background-color: #f10043!important;
+    color: white;
+}
+
+.days div {
+    width: 14.28%;
+    height: 30px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.days div:hover {
+    background-color: #d8d4d4;
+    cursor: pointer;
+}
